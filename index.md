@@ -1,7 +1,16 @@
 ---
-title: Welcome to my blog
+layout: home
+title: Home
 ---
 
-# Skills - GitHub Pages
+## Hi, I’m Trey 👋
 
-<p>I'm doing this tutorial to strengthen my understanding of GitHub Pages.</p>
+I’m building web projects and documenting what I learn—JavaScript apps, WordPress builds, and networking labs.
+
+[View Projects](/projects/) · [GitHub](https://github.com/treydolan)
+
+## Featured
+
+- **Subnetting Practice Tool** — HTML/JS tool for Network+ style practice  
+- **Cash Register App** — calculates change based on drawer contents (JS)  
+- **WordPress / WooCommerce** — themes, plugins, store setup & testing
