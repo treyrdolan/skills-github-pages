@@ -1,7 +1,13 @@
+title: Trey Dolan
+author: Trey Dolan
+description: Web Developer | JavaScript, WordPress, Networking Labs
 theme: minima
+
 minima:
   skin: classic
-title: Jeckyll and GitHub Pages Tutorial
-author: Trey
-description: GitHub Pages tutorial using Jeckyll
 
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+  - contact.md
