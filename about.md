@@ -8,6 +8,8 @@ permalink: /about/
 
 I’m Trey, a developer based in South Florida. I like building practical projects and learning by doing.
 
+**[Resume](/assets/Thomas_Dolan_2025_Resume.pdf)**
+
 ## What I’m working on
 
 - Portfolio + GitHub presence
