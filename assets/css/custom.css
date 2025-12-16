@@ -111,8 +111,7 @@ pre {
   color: var(--muted);
 }
 
-a[href*="rss"],
-a[href*="feed"] {
+.rss-subscribe {
   display: none;
 }
 
