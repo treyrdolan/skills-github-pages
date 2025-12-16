@@ -15,4 +15,4 @@ header_pages:
   - about.md
   - contact.md
 
-favicon: /assets/images/favicon.ico
+favicon: assets/favicon.ico
