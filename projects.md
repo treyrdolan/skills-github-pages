@@ -10,14 +10,16 @@ Here are a few projects I’m building and improving. I’ll keep adding demos a
 
 ### Subnetting Practice Tool
 
-- **What it does:** Practice CIDR, subnet masks, and hosts-per-subnet.
-- **Tech:** HTML, JavaScript
+- **Purpose:** Help users practice subnetting and CIDR notation
+- **Skills:** JavaScript logic, validation, UX clarity
+- **Status:** Active development
 - **Links:** Live Demo (add) · Repo (add)
 
 ### Cash Register App
 
-- **What it does:** Calculates change based on price, payment, and cash in drawer.
-- **Tech:** JavaScript
+- **Purpose:** Calculate change based on cash-in-drawer rules
+- **Skills:** Conditional logic, data structures
+- **Status:** Complete
 - **Links:** Live Demo (add) · Repo (add)
 
 ### US Phone Number Validator

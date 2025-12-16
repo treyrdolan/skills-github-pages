@@ -1,6 +1,6 @@
 title: Trey Dolan
-author: Trey Dolan
-description: Web Developer | JavaScript, WordPress, Networking Labs
+author: 
+  name: Trey Dolan
 theme: minima
 
 minima:
@@ -11,3 +11,7 @@ header_pages:
   - projects.md
   - about.md
   - contact.md
+
+
+footer_text: >
+  Web Developer | JavaScript, WordPress, Networking Labs

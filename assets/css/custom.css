@@ -97,6 +97,27 @@ pre {
   overflow: auto;
 }
 
+.post-list li {
+  margin-bottom: 1.75rem;
+}
+
+.post-list a {
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.post-meta {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+a[href*="rss"],
+a[href*="feed"] {
+  display: none;
+}
+
+
+
 /* Footer */
 .site-footer {
   border-top: 1px solid var(--border);
