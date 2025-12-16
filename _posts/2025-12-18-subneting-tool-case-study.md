@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Case Study: Subnetting Practice Tool"
+date: 2025-12-18
 ---
 
 ## The problem
