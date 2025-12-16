@@ -7,7 +7,7 @@ title: Home
 
 I’m building web projects and documenting what I learn—JavaScript apps, WordPress builds, and networking labs.
 
-[View Projects](/projects/) · [GitHub](https://github.com/treydolan)
+[View Projects](/projects/) · [GitHub](https://github.com/treyrdolan)
 
 ## Featured
 

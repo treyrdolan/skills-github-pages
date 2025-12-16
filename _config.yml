@@ -13,5 +13,5 @@ header_pages:
   - contact.md
 
 
-footer_text: >
-  Web Developer | JavaScript, WordPress, Networking Labs
+# footer_text: >
+#   Web Developer | JavaScript, WordPress, Networking Labs
