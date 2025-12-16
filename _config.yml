@@ -14,3 +14,5 @@ header_pages:
   - projects.md
   - about.md
   - contact.md
+
+favicon: /assets/images/favicon.ico
