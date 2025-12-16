@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Small JavaScript Tools to Learn Faster"
-date: 2025-12-16
+date: 2025-12-13
 ---
 
 ## Why Small Projects Matter
