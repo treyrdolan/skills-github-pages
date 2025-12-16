@@ -1,7 +1,10 @@
 title: Trey Dolan
-author: Trey Dolan
+
 description: "Web Developer | JavaScript, WordPress, Networking Labs"
 theme: minima
+
+author:
+  name: Trey Dolan
 
 minima:
   skin: classic
